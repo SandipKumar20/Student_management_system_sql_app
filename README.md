@@ -1,0 +1,1 @@
+# Student management system app using pyqt6 and mysql.
